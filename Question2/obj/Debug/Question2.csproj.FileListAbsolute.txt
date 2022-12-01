@@ -1,0 +1,11 @@
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\Unit Three Test\Question2\bin\Debug\Question2.exe.config
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\Unit Three Test\Question2\bin\Debug\Question2.exe
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\Unit Three Test\Question2\bin\Debug\Question2.pdb
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\Unit Three Test\Question2\obj\Debug\Question2.csproj.AssemblyReference.cache
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\Unit Three Test\Question2\obj\Debug\Question2.csproj.SuggestedBindingRedirects.cache
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\Unit Three Test\Question2\obj\Debug\Question2.Form1.resources
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\Unit Three Test\Question2\obj\Debug\Question2.Properties.Resources.resources
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\Unit Three Test\Question2\obj\Debug\Question2.csproj.GenerateResource.cache
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\Unit Three Test\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\Unit Three Test\Question2\obj\Debug\Question2.exe
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\Unit Three Test\Question2\obj\Debug\Question2.pdb
